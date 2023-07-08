@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  label {
+    display: block;
+    margin-top: 10px;
+  }
+
+.py-1-5 {
+  padding-top: 0.240rem; /* 6px */
+  padding-bottom: 0.375rem; /* 6px */
+  margin-bottom: 0.375rem;
+}
+
+.task-priority-alta {
+  background-color: red;
+  color: white;
+}
+
+.task-priority-media {
+  background-color: orange;
+  color: white;
+}
+
+.task-priority-baja {
+  background-color: green;
+  color: white;
+}

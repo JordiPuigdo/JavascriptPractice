@@ -1,0 +1,24 @@
+{
+    "tareas": [
+      {
+        "id": 1,
+        "titulo": "Estudiar Javascript",
+        "prioridad": "alta"
+      },
+      {
+        "id": 2,
+        "titulo": "Hacer la compra",
+        "prioridad": "alta"
+      },
+      {
+        "id": 3,
+        "titulo": "Hacer los deberes",
+        "prioridad": "media"
+      },
+      {
+        "id": 4,
+        "titulo": "Salir a Comer",
+        "prioridad": "baja"
+      }
+    ]
+}
